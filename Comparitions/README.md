@@ -27,9 +27,7 @@ While a brute-force search is simple to implement and will always find a solutio
 * The method is also used when the simplicity of implementation is more important than speed.
 * Brute-force search is also useful as a baseline method when benchmarking other algorithms or metaheuristics
 
-After analyzing algorithm we found out this solution works worst for the problems that includes large input size. Complexity will be : 
-## O(n²)
-
+After analyzing algorithm we found out this solution works worst for the problems that includes large input size. Complexity will be : O(n²)
 
 
 ## Solution
