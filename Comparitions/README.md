@@ -31,6 +31,18 @@ After analyzing algorithm we found out this solution works worst for the problem
 
 
 ## Solution
+There will be a bette way to get improvement for the problem with large input size. It is enough to remove the repeated steps to reach a better algorithm OR may be need to think about the other data structure, how I can get help of other data structures to make a faster algorithm. Also need to ask some question, like I need to find the value of the element whose complement is in the list. 
+
+```
+x      complement      target-x
+```
+
+With above aproach I just need to find complements but not with searching for them instead using different data structure named : Dictionary.
+
+```
+Dictionary OR Hashtable  is the data structure can tell us is a number into the list or not without searching for all elements.
+```
+
 This way would have complexity of O(n) or linier compexity and will work good.
 
 
