@@ -4,9 +4,9 @@
   <h3>Create a code which returns index of elements that sum of them is equal with 10</h3>
 </div>
 
-<div align="center">
+
   <p align="center"><img alt="Sequence" src="assets/1.png" /></p>
-<div>
+
 
 ## Brute force approach
 
@@ -33,9 +33,9 @@ After analyzing algorithm we found out this solution works worst for the problem
 This way would have complexity of O(n) or linier compexity and will work good.
 
 
-<div align="center">
+
   <p align="center"><img alt="Sequence" src="assets/2.png" /></p>
-<div>
+
 
 
 1. def twoSum(nums, target):
