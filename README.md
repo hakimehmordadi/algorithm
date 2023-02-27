@@ -1,9 +1,9 @@
 <div align="center">
 <!-- Title: -->
-  <a href="https://github.com/TheAlgorithms/">
+  <a>
     <img src="https://raw.githubusercontent.com/TheAlgorithms/website/1cd824df116b27029f17c2d1b42d81731f28a920/public/logo.svg" height="100">
   </a>
-  <h1><a href="https://github.com/TheAlgorithms/">Algorithms</a> - Python</h1>
+  <h1><a>Algorithms</a> - Python</h1>
 
   <h3>All algorithms implemented in Python - for education</h3>
 </div>
