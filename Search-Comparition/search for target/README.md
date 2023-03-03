@@ -62,3 +62,6 @@ This way would have complexity of O(n) or linier compexity and will work good.
 6.    else:
 7.      h[num[i]] = i
 ```
+
+**Demo Link**
+https://replit.com/@golnarmordadi/Search-Problem?v=1
