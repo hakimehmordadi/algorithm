@@ -64,4 +64,4 @@ This way would have complexity of O(n) or linier compexity and will work good.
 ```
 
 **Demo Link**
-https://replit.com/@golnarmordadi/Search-Problem?v=1
+https://replit.com/@golnarmordadi/Search-Problem?v=1#index.js
