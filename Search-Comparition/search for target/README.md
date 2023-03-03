@@ -21,6 +21,10 @@ target = 10
 6. return [i , j]
 ```
 
+**Demo Link**
+
+https://jsbin.com/gaxokifake/edit?js,console
+
 While a brute-force search is simple to implement and will always find a solution if it exists, implementation costs are proportional to the number of candidate solutions – which in many practical problems tends to grow very quickly as the size of the problem increases. Therefore, brute-force search is typically used when:
 * The problem size is limited
 * When there are problem-specific heuristics that can be used to reduce the set of candidate solutions to a manageable size. 
