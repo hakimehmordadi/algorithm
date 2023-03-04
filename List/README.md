@@ -1,9 +1,11 @@
 <div align="center">
 <!-- Title: -->
+
+  <h1><a>Lists</a> - Java Script</h1>
+  
   <a>
-  <p align="center"><img alt="lists" src="assets/1.png" /></p>
+    <p align="center"><img alt="lists" src="assets/1.png" /></p>
   </a>
-  <h1><a>Lists</a> - Python</h1>
 
   <h3>This algorithms implemented in Python - for education</h3>
 </div>
