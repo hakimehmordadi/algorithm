@@ -3,7 +3,7 @@
   <a>
     <p align="center"><img alt="armstrong" src="assets/1.png" /></p>
   </a>
-  <h1><a>Algorithms</a> - Python</h1>
+  <h1><a>Algorithms</a> - C#</h1>
 
   <h3>This algorithms implemented in C# - for education</h3>
 </div>
