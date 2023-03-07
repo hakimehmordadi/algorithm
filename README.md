@@ -5,10 +5,10 @@
   </a>
   <h1><a>Algorithms</a> - Python</h1>
 
-  <h3>All algorithms implemented in Python - for education</h3>
+  <h3>All algorithms implemented in Programming Languages - for education</h3>
 </div>
 
-Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
+Algorithms and Data Structures implemented in TypeScript, C#, Python, java for beginners, following best practices.
 
 Implementations are for learning purposes only. They may be less efficient than the implementations in the Python standard library. Use them at your discretion.
 
